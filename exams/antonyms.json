@@ -1,0 +1,15 @@
+{
+    "topic": "antonyms",
+    "exams": [
+        {
+            "title": "SSC CGL 2020 tier-2 Antonyms",
+            "slug": "ssc-cgl-2020-tier-2-antonyms",
+            "question_file": "questions/antonyms/ssc-cgl-2020-tier-2-antonyms.json"
+        },
+        {
+            "title": "SSC CGL 2024 T-1 Antonyms Part-2",
+            "slug": "ssc-cgl-2024-t-1-antonyms-part-2",
+            "question_file": "questions/antonyms/ssc-cgl-2024-t-1-antonyms-part-2.json"
+        }
+    ]
+}

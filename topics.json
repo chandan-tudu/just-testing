@@ -1,0 +1,9 @@
+{
+    "topics": [
+        {
+            "name": "Antonyms",
+            "slug": "antonyms",
+            "exam_api": "exams/antonyms.json"
+        }
+    ]
+}
